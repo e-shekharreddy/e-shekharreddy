@@ -61,33 +61,9 @@ Designed and deployed a 3-tier, microservices-based e-commerce application with 
 
 ## 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=e-shekharreddy&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=e-shekharreddy&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.shion.dev/api?username=e-shekharreddy&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=e-shekharreddy&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=e-shekharreddy&theme=default&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=e-shekharreddy&theme=default&hide_border=true" alt="GitHub Streak" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=e-shekharreddy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=e-shekharreddy&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=e-shekharreddy&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</picture>
-
----
-
-## 🏆 Trophies
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=e-shekharreddy&theme=darkhub&no-frame=true&row=1&column=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=e-shekharreddy&theme=flat&no-frame=true&row=1&column=6" />
-  <img src="https://github-profile-trophy.vercel.app/?username=e-shekharreddy&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</picture>
+![](https://github-readme-stats.shion.dev/api?username=e-shekharreddy&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=e-shekharreddy&theme=cobalt2&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=e-shekharreddy&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
